@@ -10,7 +10,8 @@ The realization of this project was thanks to the following assets
 * [Stereo vs Mono 360 Video]()
 * [Unity Manual]()
 * [Motion Sickness in VR]()
-* [The UX of VR](https://github.com/santiagopemo/0x0A-unity-360_video_tour)
+* [The UX of VR]()
+* [Repo](https://github.com/santiagopemo/0x0A-unity-360_video_tour)
 ## What you should learn
 At the end of this project you are expected to be able to explain to anyone, without the help of Google:
 
