@@ -10,23 +10,20 @@ The realization of this project was thanks to the following assets
 * [Stereo vs Mono 360 Video]()
 * [Unity Manual]()
 * [Motion Sickness in VR]()
-* [The UX of VR]()
-* [What you should learn]()
-* [At the end of this project you are expected to be able to explain to anyone, without the help of Google:]()
+* [The UX of VR](https://github.com/santiagopemo/0x0A-unity-360_video_tour)
+## What you should learn
+At the end of this project you are expected to be able to explain to anyone, without the help of Google:
 
-* [What is 3DOF vs 6DOF]()
-* [What VR headsets are on the current market and how to target them]()
-* [What is 360 video and what are its potential use cases]()
-* [What is the difference between monoscopic and stereoscopic 360 video]()
-* [What are render textures]()
-* [How to use Unity’s Video Player component]()
-* [Requirements for Unity projects]()
-* [A README.md file, at the root of the folder of the project]()
-* [Use Unity’s default .gitignore in your 0x0A-unity-360_video_tour directory]()
-* [This project should be uploaded to its own repo named 0x0A-unity-360_video_tour]()
-* [Scenes and project assets such as Scripts must be organized as described in the tasks]()
-* [In your scripts, all your public classes and their members should have XML documentation tags]()
-* [In your scripts, all your private classes and members should be documented but without XML documentation tags]()
+* What is 3DOF vs 6DOF]()
+* What VR headsets are on the current market and how to target them
+* What is 360 video and what are its potential use cases
+* What is the difference between monoscopic and stereoscopic 360 video
+* What are render textures
+* How to use Unity’s Video Player component
+## Requirements
+* A README.md file, at the root of the folder of the project
+* Use Unity’s default .gitignore in your 0x0A-unity-360_video_tour directory
+* This project should be uploaded to its own repo named 0x0A-unity-360_video_tour
 ## Tasks
 ### Mandatory :page_with_curl:
 - [x] **[0. Tour guide](./Assets/Scenes)** - In this project you will be creating a 360 video VR tour. Download the following source clips
