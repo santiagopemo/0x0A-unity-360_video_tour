@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/360VideoTour.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/NewVersion/LivingRoom.unity
+    guid: 0d44caa49dbe4ee48963876c2a5d5268
+  - enabled: 0
+    path: Assets/Scenes/NewVersion/Cantina.unity
+    guid: 48b3a7072ea75c344b18dda93de84e7e
+  - enabled: 0
+    path: Assets/Scenes/NewVersion/Mezzanine.unity
+    guid: 326922d4538297f42baf43e9c62666d5
+  - enabled: 0
+    path: Assets/Scenes/NewVersion/Cube.unity
+    guid: d9c68ab29fc2b9448b2973cdcabd403d
   m_configObjects: {}

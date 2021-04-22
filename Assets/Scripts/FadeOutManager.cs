@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Video;
+
 
 public class FadeOutManager : MonoBehaviour
 {
@@ -32,8 +34,10 @@ public class FadeOutManager : MonoBehaviour
             {
                 placeGO = place.gameObject;
             }
+            place.GetComponent<VideoPlayer>().Stop();
             place.gameObject.SetActive(false);
         }
+        // placeGO.GetComponent<VideoPlayer>().Play();
         placeGO.gameObject.SetActive(true);
         animator.SetBool("FadeOut", false);
     }    
